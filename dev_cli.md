@@ -194,7 +194,7 @@ assist with debugging an application.
 #### Local application debugging:
 {: #local-app-dev}
 
-For more information about local application debugging, see [Local application debugging](docs/cloudnative/dev_cli_local_debug.html#local-debug).
+For more information about local application debugging, see [Local application debugging](/docs/cloudnative/dev_cli_local_debug.html#local-debug).
 
 
 ### Delete
